@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Home - Die Stadtradwerkstatt</title>
+        <meta charset="utf-8"/>
+        <link rel="stylessheet" href="styles_StadtRadwerkstatt.css">
+        <img src="https://media.istockphoto.com/id/1143317242/de/foto/fahrradwerkstatt.jpg?s=612x612&w=is&k=20&c=s9Pw46HpNPoM9dXcbtFxlWEKDJ7B-6Mpld3QGssT2Uo=" width=1000px height=700px>
+
+        <style>
+            html {
+                font-family: Montserrat, sans-serif;
+                font-weight: normal;
+                color: mediumblue;
+                font-size: 18px;
+                background-repeat:no-repeat;
+            }   
+            div {
+                width: 1000px;
+                height: 50px;
+                background-color: mediumblue;
+                text-align: center;
+                border-radius: 800px;
+            }
+            h1 {
+                font-family: Montserrat, serif;
+                font-weight: bold;
+                font-size: 50px;
+                font-style:normal;
+                text-align: center;
+                color: white;
+                font-size: 45px;
+            }
+            h2 {
+                font-size: 20px;
+            }
+            span {
+                font-size: larger;
+                color: darkgoldenrod
+            }
+            img {
+                opacity: .2;
+                position:absolute;
+            }
+            a {
+                background-color: mediumblue;
+                color:white;
+                display: block;
+                width: 80%;
+                height: 100%;
+            }
+            table {
+                width: 1000px;
+                height:  20px;
+                margin: 10%;
+                background-color: mediumblue;
+                text-align: left;
+                margin:0%;
+            }
+          
+        </style>
+
+    </head>
+ 
+    <body>
+        <header>
+                <table>
+                    <tr>
+                        <td><a href="#">Home</a></td>
+                        <td><a href="#">Unsere Leistungen</a></td>
+                        <td><a href="#">Shop</a></td>
+                        <td><a href="#">Team</a></td>
+                        <td><a href="#">Kontakt</a></td>
+                    </tr>
+                </table>
+       
+        </header>        
+
+            </div>
+            <h1><div>SERVUS in der StadtRadwerkstatt</div></h1>
+            <br>
+            <h2>Wir sind <em>DIE</em> Fahrrad Werkstatt in der City Wiens</h2>
+            <br>
+            <p>Eine Reifenpanne auf dem Weg ins Büro?<br>Das Licht funktioniert plötzlich nicht?<br>
+            Die Lenkstange blockiert?</p>
+             <p>Wo immer das Problem liegt und es schnell gehen muss, sind wir zur Stelle.<p>
+             <p>Unser <span><strong>Emergency-Service</strong></span> inkludiert kleine Reparaturen, sofort und ohne Anmeldung.
+             Wir sorgen dafür, dass Sie rechtzeitig zum Meeting ins Büro, und die Kinder pünktlich in die Schule kommen.</p>
+             <p>Unsere StadtRadwerkstatt hat sich außerdem auf <span><strong>Service, Reparatur und Verkauf</strong></span> von Fahrrädern 
+             und Zubehör spezialisert.</p>
+
+    </body>
+
+
+</html>
